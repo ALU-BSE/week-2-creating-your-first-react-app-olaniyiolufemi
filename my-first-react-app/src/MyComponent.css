@@ -1,0 +1,15 @@
+.my-component {
+  background-color: lightblue;
+  padding: 20px;
+  border: 1px solid blue;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.my-component h1 {
+  color: navy;
+}
+
+.my-component p {
+  font-size: 16px;
+}
